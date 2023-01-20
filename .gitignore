@@ -1,0 +1,7 @@
+bin/*
+build/*
+__pycache__/
+repo.egg-info/
+repo_jaredjbeard.egg-info/
+dist/
+.pypirc
